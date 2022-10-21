@@ -18,7 +18,7 @@ Built on [HackMD](https://hackmd.io) source code, CodiMD lets you host and contr
 # 筆記
 
 ```
-docker compose down; docker compose up -d
+docker compose down; docker compose build; docker compose up -d
 ```
 
 # Table of Contents
