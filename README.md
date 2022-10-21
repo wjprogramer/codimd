@@ -14,6 +14,13 @@ Built on [HackMD](https://hackmd.io) source code, CodiMD lets you host and contr
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+# 筆記
+
+```
+docker compose down; docker compose up -d
+```
+
 # Table of Contents
 
 - [HackMD](#hackmd)
